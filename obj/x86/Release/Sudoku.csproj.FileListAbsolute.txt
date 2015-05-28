@@ -1,0 +1,8 @@
+C:\Users\Rodolfo\AppData\Local\Temporary Projects\Sudoku\bin\Release\Sudoku.exe
+C:\Users\Rodolfo\AppData\Local\Temporary Projects\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\Rodolfo\AppData\Local\Temporary Projects\Sudoku\obj\x86\Release\Sudoku.exe
+C:\Users\Rodolfo\AppData\Local\Temporary Projects\Sudoku\obj\x86\Release\Sudoku.pdb
+C:\Users\Rodolfo\Documents\GitHub\trab gabi\Sudoku\Sudoku\obj\x86\Release\Sudoku.exe
+C:\Users\Rodolfo\Documents\GitHub\trab gabi\Sudoku\Sudoku\obj\x86\Release\Sudoku.pdb
+C:\Users\Rodolfo\Documents\GitHub\trab gabi\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\Rodolfo\Documents\GitHub\trab gabi\Sudoku\Sudoku\bin\Release\Sudoku.pdb
